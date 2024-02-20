@@ -1,16 +1,16 @@
-### Hi there 👋
+# Isabella Torrente - Junior Software Developer
 
-<!--
-**ITorrenteP/ITorrenteP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Isabella Torrente! 👋
 
-Here are some ideas to get you started:
+I am a passionate and results-driven Junior Software Developer with a background in music and languages. I've established a robust foundation in both technical and professional skills. My familiarity spans across React, Redux, SQL, Node.js, Express, Git, TypeScript, and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+My experience is centered around Full Stack development, with a focus on creating seamless experiences. I have collaborated with cross-functional teams, ensuring high-quality code and promoting operational excellence.
+
+### Key Skills
+
+- **Frontend:** React, Redux, TypeScript, Next.js
+- **Backend:** Node.js, Express
+- **Database:** SQL
+- **Version Control:** Git
